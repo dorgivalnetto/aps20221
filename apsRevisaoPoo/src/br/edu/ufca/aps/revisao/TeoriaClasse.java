@@ -13,7 +13,8 @@ public class TeoriaClasse {
 	 * A classe descreve as características e comportamento de um conjunto de
 	 * objetos Em Java, cada objeto pertence a uma única classe O objeto possuirá os
 	 * atributos e métodos definidos na classe O objeto é chamado de instância de
-	 * sua classe A classe é o bloco básico para a construção de programas OO
+	 * sua classe 
+	 * A classe é o bloco básico para a construção de programas OO
 	 */
 	/*
 	 * public class Carro{ int velocidade;
